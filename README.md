@@ -2,9 +2,9 @@
 
 <img width="1155" alt="Screenshot 2021-06-16 at 19 17 00" src="https://user-images.githubusercontent.com/33905131/122271795-b848c780-ced7-11eb-9e13-b12ae1978912.png">
 
+### Objectives:
 Project, to build a simple website for a fictional arts and crafts store.
 
-### Objectives:
 To display competency in creating:
 + A folder structure that makes sense for the project
 + An HTML file
